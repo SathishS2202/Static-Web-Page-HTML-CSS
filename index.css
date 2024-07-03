@@ -1,0 +1,86 @@
+
+ul
+{
+  list-style-type: none;
+  margin: 20px 0 0 350px;
+  border: 2px solid rgb(216, 210, 210);
+  padding: 15px;
+  background-color:whitesmoke;
+  
+}
+li
+{
+    display: inline;
+    padding: 10px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+}
+a {
+    text-decoration: none; 
+    color: inherit; 
+}
+ul li:hover
+{
+    background-color: aqua;
+    color: red;
+}
+
+h1
+{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bolder;
+    font-size: 40px;
+    margin: 50px 0 0 40px;
+}
+.p2
+{
+    margin:0;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:300;
+  font-style: normal;
+  font-size: 20px; 
+  margin: 50px 0 0 50px;
+  width: 650px; 
+  line-height: 1.6; 
+  letter-spacing: 0.05em;
+}
+img1
+{
+    margin-left: 50 px;
+    height: 600px;
+    width:550px;
+}
+.header
+{
+    color: rgb(45, 214, 214);
+}
+.btn1,.btn2,.btn3
+{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:300;
+    font-style: normal;
+    font-size: 20px; 
+    margin: 50px 0 0 50px;
+    line-height: 1.6; 
+    letter-spacing: 0.05em;
+    border-radius: 100px;
+    padding: 10px;
+}
+.btn1,.btn3
+{
+    background-color: rgb(26, 235, 165);
+}
+.btn3
+{
+    margin-left: 550px;
+}
+iframe
+{
+    margin: 50px 0 0 250px;
+}
+
